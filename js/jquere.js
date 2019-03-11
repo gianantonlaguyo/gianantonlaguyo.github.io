@@ -1,0 +1,20 @@
+$("#img1").mouseenter(function(){
+  $("#img1").addClass("zoom");
+}).mouseleave(function(){
+	$("#img1").removeClass("zoom");
+});
+$("#img2").mouseenter(function(){
+  $("#img2").addClass("zoom");
+}).mouseleave(function(){
+	$("#img2").removeClass("zoom");
+});
+$("#img3").mouseenter(function(){
+  $("#img3").addClass("zoom");
+}).mouseleave(function(){
+	$("#img3").removeClass("zoom");
+});
+$("#img4").mouseenter(function(){
+  $("#img4").addClass("zoom");
+}).mouseleave(function(){
+	$("#img4").removeClass("zoom");
+});
