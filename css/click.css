@@ -64,6 +64,18 @@
     #link:hover{
       color: #925afc;
     }
+    #link1:hover{
+      color: #925afc;
+    }
+        #link2:hover{
+      color: #925afc;
+    }
+        #link3:hover{
+      color: #925afc;
+    }
+        #link4:hover{
+      color: #925afc;
+    }
     table {
       font-family: arial, sans-serif;
 
@@ -109,8 +121,19 @@
   color: white;
 }
 .zoom {
-  padding: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
   transition: transform .2s;
-  margin: 0 auto;
 }
-
+#info1{
+  display: none;
+}
+#info2{
+  display: none;
+}
+#info3{
+  display: none;
+}
+#info4{
+  display: none;
+}
