@@ -18,3 +18,16 @@ $("#img4").mouseenter(function(){
 }).mouseleave(function(){
 	$("#img4").removeClass("zoom");
 });
+
+$("#link1").click(function(){
+  $("#info1").show();
+});
+$("#link2").click(function(){
+  $("#info2").show();
+});
+$("#link3").click(function(){
+  $("#info3").show();
+});
+$("#link4").click(function(){
+  $("#info4").show();
+});
