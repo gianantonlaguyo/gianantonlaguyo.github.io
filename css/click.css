@@ -137,3 +137,6 @@
 #info4{
   display: none;
 }
+.col-3{
+    position: fixed;
+}
