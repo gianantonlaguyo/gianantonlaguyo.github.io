@@ -37,22 +37,22 @@
       padding-top: 70px;
       padding-left: 35px;
     }
-    #img1{
+    .img-card1{
       background-image: url(../assets/images/aqmn.jpg);
       width: 100%;
       height: auto;
     }
-        #img2{
+    .img-card2{
       background-image: url(../assets/images/alita.jpg);
       width: 100%;
       height: auto;
     }
-        #img3{
+     .img-card3{
       background-image: url(../assets/images/lovesimon.jpg);
       width: 100%;
       height: auto;
     }
-        #img4{
+      .img-card4{
       background-image: url(../assets/images/rampage.jpg);
       width: 100%;
       height: auto;
