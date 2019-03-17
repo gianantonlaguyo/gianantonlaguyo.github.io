@@ -37,25 +37,19 @@
       padding-top: 70px;
       padding-left: 35px;
     }
-    .img-card1{
-      background-image: url(../assets/images/aqmn.jpg);
-      background-position: 50% 50%;
-      background-size: cover;
-      background-repeat: no-repeat;
-      margin-bottom: 0px;
-    }
-    .img-card2{
-      background-image: url(../assets/images/alita.jpg);
+    #img1{
       width: 100%;
       height: auto;
     }
-     .img-card3{
-      background-image: url(../assets/images/lovesimon.jpg);
+    #img2{
       width: 100%;
       height: auto;
     }
-      .img-card4{
-      background-image: url(../assets/images/rampage.jpg);
+    #img3{
+      width: 100%;
+      height: auto;
+    }
+    #img4{
       width: 100%;
       height: auto;
     }
@@ -127,7 +121,7 @@
   color: white;
 }
 .zoom {
-    background-size: 25.8em 16.5em;
+    padding: 5px 5px;
     transition:0.2s;
 }
 #info1{
