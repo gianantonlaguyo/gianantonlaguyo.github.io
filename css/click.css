@@ -1,0 +1,145 @@
+    .ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #9e77f9;
+    }
+    .li {
+      float: left;
+    }
+    .li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    .li a:hover {
+      background-color: #7b48f2;
+      text-decoration: none;
+      color: white;
+    }
+    .gianbanner {
+      background-image: url(../assets/images/avg22.jpg);
+      background-position: 50% 50%;
+      background-size: cover;
+      background-repeat: no-repeat;
+      margin-bottom: 0px;
+      color: #925afc;
+      width: 100%;
+      height: 200px;
+    }
+    .active{
+      background-color: #7b48f2;
+    }
+    .bannertext{
+      padding-top: 70px;
+      padding-left: 35px;
+    }
+    #img-card1{
+      width: 100%;
+      height: auto;
+    }
+    #img-card2{
+      width: 100%;
+      height: auto;
+    }
+    #img-card3{
+      width: 100%;
+      height: auto;
+    }
+    #img-card4{
+      width: 100%;
+      height: auto;
+    }
+    #img11{
+      width: 100%;
+      height: 75%;
+    }
+        #img12{
+      width: 100%;
+      height: 75%;
+    }
+    #link{
+      text-decoration: none;
+      color: black;
+    }
+    #link:hover{
+      color: #925afc;
+    }
+    #link1:hover{
+      color: #925afc;
+    }
+        #link2:hover{
+      color: #925afc;
+    }
+        #link3:hover{
+      color: #925afc;
+    }
+        #link4:hover{
+      color: #925afc;
+    }
+    table {
+      font-family: arial, sans-serif;
+
+      width: 100%;
+    }
+
+    td, th {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+    }
+
+    tr:nth-child(even) {
+      background-color: #dddddd;
+    }
+#text{
+    color: #7b48f2;
+    font-family: candara;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.zoom {
+    padding: 5px 5px;
+    transition:0.2s;
+}
+#info1{
+  display: none;
+}
+#info2{
+  display: none;
+}
+#info3{
+  display: none;
+}
+#info4{
+  display: none;
+}
+.col-3{
+    position: fixed;
+}
