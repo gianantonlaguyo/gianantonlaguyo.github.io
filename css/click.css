@@ -39,8 +39,10 @@
     }
     .img-card1{
       background-image: url(../assets/images/aqmn.jpg);
-      width: 100%;
-      height: auto;
+      background-position: 50% 50%;
+      background-size: cover;
+      background-repeat: no-repeat;
+      margin-bottom: 0px;
     }
     .img-card2{
       background-image: url(../assets/images/alita.jpg);
