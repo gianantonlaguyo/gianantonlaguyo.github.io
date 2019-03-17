@@ -1,7 +1,5 @@
-$("#img1").mouseenter(function(){
-  $("#img1").addClass("zoom");
-}).mouseleave(function(){
-	$("#img1").removeClass("zoom");
+$(".img-card1").mouseenter(function(){
+  $(".img-card1").toggleClass("zoom");
 });
 $("#img2").mouseenter(function(){
   $("#img2").addClass("zoom");
