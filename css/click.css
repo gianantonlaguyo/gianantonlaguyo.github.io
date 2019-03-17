@@ -38,18 +38,22 @@
       padding-left: 35px;
     }
     #img1{
+      background-image: url(../assets/images/aqmn.jpg);
       width: 100%;
       height: auto;
     }
         #img2{
+      background-image: url(../assets/images/alita.jpg);
       width: 100%;
       height: auto;
     }
         #img3{
+      background-image: url(../assets/images/lovesimon.jpg);
       width: 100%;
       height: auto;
     }
         #img4{
+      background-image: url(../assets/images/rampage.jpg);
       width: 100%;
       height: auto;
     }
